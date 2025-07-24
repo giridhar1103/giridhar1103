@@ -4,7 +4,7 @@
 I’m a data enthusiast passionate about working with data.<br>📊 I love diving into data; cleaning it, analyzing it statistically, and uncovering insights that matter.<br>⚙️ I'm building end-to-end data pipelines and experimenting with machine learning models that solve real-world problems.<br>🧠 I’m exploring everything from classical ML to modern AI, and always eager to learn new tools and techniques.<br>
 
 
-I’m excited to contribute, grow, and take on challenges across data science, ML, and AI. If you're interested, you can check my [website](#https://giriworks.com) for more details about me!!!
+I’m excited to contribute, grow, and take on challenges across data science, ML, and AI. If you're interested, you can check my [website](#https://giriworks.com) for more details about me!!
 
 
 ### 💻 Tech Stack:
